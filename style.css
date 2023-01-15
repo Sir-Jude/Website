@@ -52,7 +52,7 @@ the page-title cover the button
 
 .join {
     color: black;
-    text-decoration:underline;
+    text-decoration: underline;
 }
 
 .me {
@@ -61,11 +61,11 @@ the page-title cover the button
 }
 
 .essen {
-     width: 600px;
-     height: auto;
+    width: 600px;
+    height: auto;
 }
 
 .introduction {
-    width: 200px;
-    text-align: justify;    
+    width: 600px;
+    text-align: justify;
 }
