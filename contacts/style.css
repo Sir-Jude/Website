@@ -1,11 +1,14 @@
 html {}
 
 button {
+    margin: 6px;
+    width: 170px;
+    border: none;
+    font-size: 20px;
     padding: 20px;
     background-color: green;
-    border-radius: 40px;
+    border-radius: 30px;
     cursor: pointer;
-    margin-right: 10px;
     transition: opacity 0.20s;
 }
 
@@ -20,14 +23,6 @@ button:active {
 a {
     text-decoration: none;
     color: yellow
-}
-
-/*Navigation buttons*/
-button {
-    margin: 6px;
-    width: 170px;
-    border: none;
-    font-size: 20px;
 }
 
 /*
