@@ -1,31 +1,24 @@
 html {}
 
-/*
-Buttons
-*/
-button {
+.button {
+    color: yellow;
+    text-decoration: none;
     margin: 10px;
-    width: 170px;
     border: none;
     font-size: 20px;
-    padding: 15px;
+    padding: 15px 30px;
     background-color: green;
     border-radius: 30px;
     cursor: pointer;
     transition: opacity 0.20s;
 }
 
-button:hover {
+.button:hover {
     opacity: 0.8;
 }
 
-button:active {
+.button:active {
     background-color: rgb(2, 92, 2);
-}
-
-a {
-    text-decoration: none;
-    color: yellow
 }
 
 /*
