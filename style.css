@@ -1,5 +1,8 @@
 html {}
 
+/*
+Buttons
+*/
 button {
     margin: 10px;
     width: 170px;
@@ -26,11 +29,11 @@ a {
 }
 
 /*
-Fundamental bar to avoid that
-the page-title cover the button
+Fundamental lines of code to avoid
+that the page-title cover the button
 */
 .fixed-bar {
-    height: 90px;
+    height: 60px;
 }
 
 /*header*/
@@ -43,6 +46,11 @@ the page-title cover the button
     font-size: 50px;
     margin: 0px;
     text-align: center;
+}
+
+.important {
+    font-size: 19px;
+    color: red;
 }
 
 .join {
@@ -63,4 +71,5 @@ the page-title cover the button
 .introduction {
     width: 600px;
     text-align: justify;
+    font-size: 16px;
 }
